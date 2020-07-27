@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/formas-y-simbolos.png</file>
+        <file>recursos/linea.png</file>
+        <file>recursos/pintar (1).png</file>
+        <file>recursos/pintar.png</file>
+        <file>recursos/rectangulo.png</file>
+        <file>recursos/anadir (1).png</file>
+        <file>recursos/cerrar (3).png</file>
+        <file>recursos/line.png</file>
+        <file>recursos/salvar (5).png</file>
+        <file>recursos/dibujar.png</file>
+        <file>recursos/guardar-el-archivo.png</file>
+        <file>recursos/surgir.png</file>
+        <file>recursos/dos-rectas-paralelas-verticales.png</file>
+        <file>recursos/grosor.png</file>
+    </qresource>
+</RCC>
